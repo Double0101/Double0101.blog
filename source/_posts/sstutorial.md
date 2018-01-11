@@ -1,7 +1,5 @@
 ---
-layout: post
 title: VPS中搭建shadowsocks教程
-date: 2017-08-05
 categories: blog
 tags: [搭建,shadowsocks]
 description: 一条龙服务，从头到尾搭建ss教程
